@@ -4,16 +4,16 @@
 
 ## Quickstart
 
-* [Header](quickstart/quickstart.md)
-* [Authentication](quickstart/publish-your-docs.md)
-* [Error Message](quickstart/publish-your-docs-1.md)
+* [Header](quickstart/header.md)
+* [Authentication](quickstart/authentication.md)
+* [Error Message](quickstart/error-message.md)
 
 ## Api
 
-* [Create PayIn](api/openapi.md)
-* [Obtain Payment Info](api/openapi-1.md)
-* [Obtain Exchange Rate](api/openapi-2.md)
-* [Obtain Payment Methods](api/openapi-3.md)
+* [Create PayIn](api/payin.md)
+* [Obtain Payment Info](api/payment-info.md)
+* [Obtain Exchange Rate](api/exchange-rate.md)
+* [Obtain Payment Methods](api/payment-methods.md)
 
 ## Webhook
 

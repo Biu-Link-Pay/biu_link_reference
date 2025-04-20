@@ -1,0 +1,13 @@
+{
+  "name": "biu-link-reference",
+  "version": "1.0.0",
+  "description": "Biu Link Reference Documentation",
+  "scripts": {
+    "docs:prepare": "gitbook install",
+    "docs:build": "gitbook build",
+    "docs:serve": "gitbook serve"
+  },
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+} 

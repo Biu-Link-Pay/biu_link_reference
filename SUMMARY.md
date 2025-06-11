@@ -12,6 +12,7 @@
 ## Api
 
 * [Create PayIn](api/payin.md)
+* [Create PayOut](api/create-payout.md)
 * [Obtain Payment Info](api/payment-info.md)
 * [Obtain Exchange Rate](api/exchange-rate.md)
 * [Obtain Payment Methods](api/payment-methods.md)
